@@ -1,2 +1,2 @@
 Fonctionnalité 1
-Ajout d'un fichier feature1.txt
+Mis à jour d'un fichier feature1.txt
