@@ -1,0 +1,2 @@
+Fonctionnalité 2
+Ajout d'un fichier feature2.txt
